@@ -1,4 +1,4 @@
-# VoxBridge AKA (The Traveling Star Swirlotl)
+# VoxBridge
 
 > A lightweight Windows desktop text-to-speech application for fast, reliable voice communication in Discord, VRChat, and other voice-enabled applications.
 
